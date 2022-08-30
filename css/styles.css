@@ -1,0 +1,23 @@
+.main-heading { font-family: 'Lato', sans-serif;
+/* font-family: 'Open Sans', sans-serif; */
+color: yellow;
+}
+
+.background {
+    background-color: blue;
+    /* width: auto;
+    height: 500px; */
+}
+
+.navbar-background{
+    background-color: blue;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-toggler-icon {
+    color: white;
+}
+
