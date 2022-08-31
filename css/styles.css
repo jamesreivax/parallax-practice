@@ -21,3 +21,28 @@ color: white;
     color: white;
 }
 
+.jumbo-image {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-image: url(../img/background.jpg); */
+}
+
+.parallax {
+    /* The image used */
+    background-image: url(../img/background1.jpg);
+
+    /* Set a specific height */
+
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+
+.text {
+    color: rgb(189, 192, 24);
+}
